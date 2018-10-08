@@ -1,0 +1,35 @@
+body {
+  padding: 5px;
+}
+.button{
+  background-color: blue;
+  background-color: rgba(0, 0, 255, 0.5);
+}
+
+.fieldset label{
+  background-color: transparent;
+  color: white;
+}
+
+.formulario{
+  background-color: #70db70;
+  color: white;
+  /*background-color: rgba(255, 0, 0, 0.5);*/
+  border-radius: 10px;
+  padding: 5px;
+  width: 40%;
+
+}
+
+.registro{
+  border: 1px solid black;
+  margin-top: 5px;
+  width: 80%;
+}
+.expanded{
+  padding: 10px;
+}
+
+th, tbody, td {
+  border: 2px solid #ddd;
+}
